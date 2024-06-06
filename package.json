@@ -1,0 +1,23 @@
+{
+  "name": "pointbyphone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "agecode-debug <agecode95@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "get-mp3-duration": "^1.0.0",
+    "http": "^0.0.1-security",
+    "https-localhost": "^4.7.1",
+    "nodemon": "^3.1.2",
+    "path": "^0.12.7",
+    "screenfull": "^6.0.2",
+    "socket.io": "^4.7.5",
+    "unique-names-generator": "^4.7.1",
+    "ws": "^8.17.0"
+  }
+}
